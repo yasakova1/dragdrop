@@ -10,14 +10,14 @@ body {
   display: flex;
   padding-top: 5rem;
   justify-content: center;
-  overflow: hidden;
   margin: 0;
+  width: 100vw;
 }
 
 .row {
   display: flex;
   width: 600px;
-  justify-content: space-between;
+ justify-content: center; 
   margin-bottom: 1rem;
 }
 
